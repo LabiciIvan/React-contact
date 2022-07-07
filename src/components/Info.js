@@ -9,19 +9,17 @@ export default function Info() {
            <div className='info-about'>
                 <h5 className='about-title'>About</h5>
                 <h5 className='about-content'>
-                Mount Fuji is the tallest mountain in Japan,
-                standing at 3,776 meters 12, 380 feet. Mount Fuji
-                is the single most popular tourist site in Japan, for both
-                Japanese and foreign tourists.
+                I enojy to develop React applications but also I can 
+                develop a backend for that too.
+                Don't hesitate too much, and let's start the next BIG THING.
                 </h5>
            </div>
            <div className='info-interests'>
                 <h5 className='interests-title'>Interests</h5>
                 <h5 className='interests-content'>
-                Mount Fuji is the tallest mountain in Japan,
-                standing at 3,776 meters 12, 380 feet. Mount Fuji
-                is the single most popular tourist site in Japan, for both
-                Japanese and foreign tourists.
+                    I am interested about web development, 
+                    most about React and Express js and Laravel. 
+                    Experience with HTML, CSS, Javascript.
                 </h5>
            </div>
         </div>
