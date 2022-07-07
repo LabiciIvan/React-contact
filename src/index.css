@@ -11,6 +11,10 @@ body {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .main {
   width: 300px;
   height: 600px;
@@ -120,11 +124,21 @@ body {
   font-weight: 700;
 }
 
+.contact-email > a {
+  color: inherit;
+}
+
+
+
 .contact-linkedin {
   margin-left: 5px;
   background-color: rgb(26, 146, 238);
   color: white;
   font-weight: 700;
+}
+
+.contact-linkedin > a {
+  color: inherit;
 }
 
 .fa-solid.fa-envelope,
